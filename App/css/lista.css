@@ -1,0 +1,163 @@
+body{
+     /* background-color: gray;*/
+	background: url(App/img/ac.jpg);
+	background-size: 100% 100%;	
+}
+#tudo{
+	margin: 0 auto;
+	width: 1300px;	
+}
+
+#entrar{
+	display:none;
+	width: 290px;
+	float: right;
+	margin-left: 1000px;
+	margin-top: 50px;
+	position: absolute;
+	background-color:#06080a;
+	height: 120px; 
+	color: white;
+	padding: 5px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+#login{
+	font-family: verdana;
+	margin-top: 21px;
+	margin-right:9px;
+	border:none;
+	background-color: #ffffff;
+	color:blue;
+
+}
+
+#entrar label, .input{
+	float: left;
+}
+#entrar .input{
+	width: 270px;
+}
+#entrar #submit{
+	margin-top: 10px;
+	border-radius: 5px;
+	background-color: white;
+	color: #06080a; 
+	padding: 2px;
+	float: right;
+	margin-right: 15px;
+	display: flex;
+	justify-content: space-between;
+}
+#cabeçalho{
+	width: 1300px;
+	height: 40px;
+	background-color:black;
+}
+.face{
+	margin-top: 6px;
+	padding-right: 20px;
+	width: 22px;
+	height: 22px;
+	float: right;
+	padding: left 15px;
+}
+nav{
+	width: 1300px;
+	height: 60px;
+	background-color: white;
+}		
+nav .menu {
+	text-decoration: none;
+	float: left;
+	padding-right: 15px;
+	margin-top: 19px;
+	margin-left: 10px;	
+	font-family: verdana;
+		
+}
+nav .menu:hover{
+	color: blue;
+}
+nav #pesq{
+	background-image: url('../img/pesquisa.png');
+	background-size: 8%;
+	background-repeat: no-repeat;
+	background-position: 92%;
+	float: right;
+	margin-top: 15px;
+	margin-right: 20px;
+	box-shadow: 0px 0px 5px black;
+	border-radius: 5px;	
+	width: 300px;
+	height: 5px;
+	padding: 12px;
+
+}
+nav .menu1 {
+	float: right;	
+	text-decoration: none;
+	padding-right: 15px;
+	margin-top: 19px;
+	font-family: verdana;
+	height: 20px;	
+}
+
+nav #cadastrar{
+	padding: 1px;
+	border:1px solid purple;
+	border-radius: 5px;	
+	text-align: 0 auto;
+	margin-right: 10px;
+}
+nav #cadastrar:hover{
+	background-color: red;
+	color: white;	
+}
+#logo{
+	width: 150px;	
+	height: 40px;
+	float: left;
+}	
+
+section{
+	margin-top: -4px;	
+	background-color: ;
+	width: 1300px;
+	height: 1110px;		
+	float: left;
+}
+
+#ft{
+	width: 1300px;
+	height: 1110px;
+}
+
+
+
+footer{
+	border: 3px solid black;
+	clear: both;
+	height: 50px;
+    width: 1295px; 
+    background-color: #222426;
+ 
+}
+footer p{	
+	float: left;
+	margin-left: 20px;
+	color: #686a6c;
+}
+footer button{
+	float: right;
+	margin-top: 15px;
+	margin-right: 110px;
+	border-bottom-right-radius: 5px;
+	border-top-left-radius: 5px;
+	width: 100px;
+}
+footer a{
+	text-decoration: none;
+	font-family: verdana;
+}
+

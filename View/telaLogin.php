@@ -6,7 +6,7 @@
 		
 
 	</script>
-	<title>Pizzaria X</title>
+	<title>Pizzaria</title>
 	<link rel="stylesheet" href="App/css/estilo.css">
 </head>
 <body>
@@ -58,7 +58,7 @@
 	
 	<footer>
 		<p>
-			Copyright © 2009 - 2021  <strong>PIZZARIA X !Home</strong> 
+			Copyright © 2009 - 2023  <strong>PIZZARIA X !Home</strong> 
 
 		</p>
 		<button> <a href="#">Peça ja</a> </button>
